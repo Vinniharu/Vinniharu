@@ -1,3 +1,5 @@
+<img align="right" alt="Coding" width="100%"  display="block" src="[https://imgs.search.brave.com/uGBeRwzhbiOphYDvGkQnCQYYApKyDw1OrDHAZ44cF9Y/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif](https://imgs.search.brave.com/D6KISo3Uzm47soldmwUEekB84UTDM1U7rjjV__-ptMI/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9jZG4u/dmVjdG9yc3RvY2su/Y29tL2kvcHJldmll/dy0xeC8yMi85My93/ZWItY29kaW5nLWFu/ZC1zb2Z0d2FyZS1k/ZXZlbG9wbWVudC1j/b25jZXB0LWJhbm5l/ci12ZWN0b3ItNDIx/NzIyOTMuanBn)"/>
+
 <h1 align="center">Hi 👋, I'm Stephen Fagbelu</h1>  
 <h3 align="center">A passionate frontend developer from Nigeria</h3>  
 
