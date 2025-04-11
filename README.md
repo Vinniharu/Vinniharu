@@ -40,14 +40,6 @@ I love animals and dream of owning a horse someday. Let's connect and build some
 - **BUILDHUBB** - Frontend Intern (Nov 2023 - Feb 2024)
 - **UPPERLINK LIMITED** - Frontend Intern (May 2023 - Oct 2023)
 
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Vinniharu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Vinniharu&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinniharu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Vinniharu&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
