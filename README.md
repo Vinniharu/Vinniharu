@@ -9,6 +9,8 @@ Ask me about React, Next.js, or UI styling - I excel at DOM manipulation and cre
 
 I love animals and dream of owning a horse someday. Let's connect and build something amazing together!
 
+[![wakatime](https://wakatime.com/badge/user/1d5bda55-57ad-4fd3-94a2-a579d5543a58.svg)](https://wakatime.com/@1d5bda55-57ad-4fd3-94a2-a579d5543a58)
+
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_vinny.in4k) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Stephen-Fagbelu) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Lastevon2) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Vinniharu)
 
